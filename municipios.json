@@ -1,0 +1,194 @@
+[
+  {
+    "IDMunicipio": "7817",
+    "IDProvincia": "50",
+    "IDCCAA": "02",
+    "Municipio": "Abanto",
+    "Provincia": "ZARAGOZA",
+    "CCAA": "Aragón"
+  },
+  {
+    "IDMunicipio": "7569",
+    "IDProvincia": "49",
+    "IDCCAA": "08",
+    "Municipio": "Abezames",
+    "Provincia": "ZAMORA",
+    "CCAA": "Castilla y León"
+  },
+  {
+    "IDMunicipio": "7458",
+    "IDProvincia": "48",
+    "IDCCAA": "16",
+    "Municipio": "Abanto y Ciérvana-Abanto Zierbena",
+    "Provincia": "BIZKAIA",
+    "CCAA": "País Vasco"
+  },
+  {
+    "IDMunicipio": "7233",
+    "IDProvincia": "47",
+    "IDCCAA": "08",
+    "Municipio": "Aguasal",
+    "Provincia": "VALLADOLID",
+    "CCAA": "Castilla y León"
+  },
+  {
+    "IDMunicipio": "6966",
+    "IDProvincia": "46",
+    "IDCCAA": "10",
+    "Municipio": "Ademuz",
+    "Provincia": "VALENCIA / VALÈNCIA",
+    "CCAA": "Comunidad Valenciana"
+  },
+  {
+    "IDMunicipio": "6762",
+    "IDProvincia": "45",
+    "IDCCAA": "07",
+    "Municipio": "Ajofrín",
+    "Provincia": "TOLEDO",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "6526",
+    "IDProvincia": "44",
+    "IDCCAA": "02",
+    "Municipio": "Ababuj",
+    "Provincia": "TERUEL",
+    "CCAA": "Aragón"
+  },
+  {
+    "IDMunicipio": "6343",
+    "IDProvincia": "43",
+    "IDCCAA": "09",
+    "Municipio": "Aiguamúrcia",
+    "Provincia": "TARRAGONA",
+    "CCAA": "Cataluña"
+  },
+  {
+    "IDMunicipio": "6160",
+    "IDProvincia": "42",
+    "IDCCAA": "08",
+    "Municipio": "Abejar",
+    "Provincia": "SORIA",
+    "CCAA": "Castilla y León"
+  },
+  {
+    "IDMunicipio": "6055",
+    "IDProvincia": "41",
+    "IDCCAA": "01",
+    "Municipio": "Aguadulce",
+    "Provincia": "SEVILLA",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "5846",
+    "IDProvincia": "40",
+    "IDCCAA": "08",
+    "Municipio": "Abades",
+    "Provincia": "SEGOVIA",
+    "CCAA": "Castilla y León"
+  },
+  {
+    "IDMunicipio": "5744",
+    "IDProvincia": "39",
+    "IDCCAA": "06",
+    "Municipio": "Alfoz de Lloredo",
+    "Provincia": "CANTABRIA",
+    "CCAA": "Cantabria"
+  },
+  {
+    "IDMunicipio": "5691",
+    "IDProvincia": "38",
+    "IDCCAA": "05",
+    "Municipio": "Adeje",
+    "Provincia": "SANTA CRUZ DE TENERIFE",
+    "CCAA": "Canarias"
+  },
+  {
+    "IDMunicipio": "4455",
+    "IDProvincia": "29",
+    "IDCCAA": "01",
+    "Municipio": "Alameda",
+    "Provincia": "MÁLAGA",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "4276",
+    "IDProvincia": "28",
+    "IDCCAA": "13",
+    "Municipio": "Acebeda (La)",
+    "Provincia": "MADRID",
+    "CCAA": "Madrid"
+  },
+  {
+    "IDMunicipio": "3804",
+    "IDProvincia": "25",
+    "IDCCAA": "09",
+    "Municipio": "Abella de la Conca",
+    "Provincia": "LLEIDA",
+    "CCAA": "Cataluña"
+  },
+  {
+    "IDMunicipio": "2671",
+    "IDProvincia": "18",
+    "IDCCAA": "01",
+    "Municipio": "Agrón",
+    "Provincia": "GRANADA",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "2043",
+    "IDProvincia": "14",
+    "IDCCAA": "01",
+    "Municipio": "Adamuz",
+    "Provincia": "CÓRDOBA",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "1762",
+    "IDProvincia": "11",
+    "IDCCAA": "01",
+    "Municipio": "Alcalá de los Gazules",
+    "Provincia": "CÁDIZ",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "861",
+    "IDProvincia": "08",
+    "IDCCAA": "09",
+    "Municipio": "Abrera",
+    "Provincia": "BARCELONA",
+    "CCAA": "Cataluña"
+  },
+  {
+    "IDMunicipio": "280",
+    "IDProvincia": "04",
+    "IDCCAA": "01",
+    "Municipio": "Abla",
+    "Provincia": "ALMERÍA",
+    "CCAA": "Andalucia"
+  },
+  {
+    "IDMunicipio": "139",
+    "IDProvincia": "03",
+    "IDCCAA": "10",
+    "Municipio": "Adsubia",
+    "Provincia": "ALICANTE",
+    "CCAA": "Comunidad Valenciana"
+  },
+  {
+    "IDMunicipio": "52",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Abengibre",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  },
+  {
+    "IDMunicipio": "53",
+    "IDProvincia": "02",
+    "IDCCAA": "07",
+    "Municipio": "Alatoz",
+    "Provincia": "ALBACETE",
+    "CCAA": "Castilla la Mancha"
+  }
+]
